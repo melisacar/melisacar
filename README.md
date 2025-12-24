@@ -1,1 +1,3 @@
-![profil](ghibli.gif)
+<p align="center">
+  <img src="ghibli2.gif" width="900" height="220" />
+</p>
